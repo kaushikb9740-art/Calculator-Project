@@ -1,16 +1,33 @@
-# React + Vite
+# 🧮 Responsive Calculator Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About the Project
 
-Currently, two official plugins are available:
+This is a simple, interactive, and responsive Calculator Web Application built using React.js and Tailwind CSS. It allows users to perform basic arithmetic calculations through a clean and user-friendly interface. The application features a modern design and responsive layout for a smooth experience across different screen sizes.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Addition, subtraction, multiplication, and division
+- Interactive calculator buttons
+- Clean and user-friendly interface
+- Responsive design for different screen sizes
+- Modern calculator layout
+- Smooth user interaction
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Technologies Used
 
-## Expanding the ESLint configuration
+- React.js
+- JavaScript
+- Tailwind CSS
+- HTML
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## How to Run the Project
+
+1. Clone this repository.
+2. Open the project folder in VS Code.
+3. Install dependencies: `npm install`
+4. Start the development server: `npm run dev`
+5. Open the local URL shown in the terminal.
+
+## Author
+
+Created as a frontend development learning project.
